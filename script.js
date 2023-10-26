@@ -1,4 +1,4 @@
-let timer = 10;
+let timer = 30;
 let score = 0;
 let hitRN = 0;
 
